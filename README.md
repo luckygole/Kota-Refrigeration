@@ -32,8 +32,8 @@ JavaScript – Interactive elements
 
 📸 Screenshots
 
-
 Example:
+
 home section
 <img width="1865" height="962" alt="image" src="https://github.com/user-attachments/assets/2735a7d0-8655-47d4-a5bd-257d2f00f63d" />
 
@@ -42,10 +42,9 @@ Service section
 
 
 🚀 Live Demo
+https://kota-refrigeration.vercel.app/
 
-If deployed, add the website link here.
-
-https://your-live-website-link.com
+https://kota-refrigeration.vercel.app/
 📦 Run Locally
 
 Clone the repository and run it locally.
