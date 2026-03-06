@@ -135,7 +135,7 @@ export default function Navbar() {
           {/* 🔹 Right: Call Now Button */}
           <div className="hidden md:block">
             <a
-              href="tel:+916265580736"
+              href="tel:+919425131308"
               className="bg-gradient-to-r from-orange-400 to-orange-500 text-white px-4 py-2 rounded-full shadow hover:shadow-lg hover:scale-105 transition-all duration-300"
             >
               Call Now
@@ -187,7 +187,7 @@ export default function Navbar() {
             </button>
 
             <a
-              href="tel:+916265580736"
+              href="tel:+919425131308"
               className="bg-gradient-to-r from-orange-400 to-orange-500 text-center py-2 rounded-full shadow hover:scale-105 transition-all duration-300"
               onClick={() => setMenuOpen(false)}
             >
