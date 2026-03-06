@@ -2,7 +2,7 @@ import { useState, useEffect } from "react";
 import { Menu, X } from "lucide-react";
 import { Link, useLocation, useNavigate } from "react-router-dom";
 import RequestServiceModal from "./RequestServiceModal";
-import logo from "../assets/kotalogo.png";
+import logo from "../assets/logo.png";
 
 export default function Navbar() {
   const [menuOpen, setMenuOpen] = useState(false);
