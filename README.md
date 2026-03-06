@@ -1,16 +1,77 @@
-# React + Vite
+❄️ Kota Refrigeration Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive business website developed for Kota Refrigeration, a refrigeration and cooling service provider. The website is designed to showcase the company's services, build trust with customers, and provide an easy way for clients to contact the business.
 
-Currently, two official plugins are available:
+This project focuses on clean UI design, responsive layout, and simple navigation so that users can easily explore the services offered by the company.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+💼 Freelancing Project
 
-## React Compiler
+This website was developed as a freelancing project for Kota Refrigeration to help the business establish a professional online presence and allow customers to easily learn about their refrigeration services and contact them online.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+✨ Features
 
-## Expanding the ESLint configuration
+📱 Fully Responsive Design (Mobile / Tablet / Desktop)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+❄️ Service showcase section
+
+🏢 Business information section
+
+📞 Contact section for customer inquiries
+
+🎨 Clean and professional UI
+
+⚡ Lightweight and fast loading website
+
+🛠️ Tech Stack
+
+HTML5 – Website structure
+
+CSS3 – Styling and responsive layout
+
+JavaScript – Interactive elements
+
+📸 Screenshots
+
+
+Example:
+home section
+<img width="1865" height="962" alt="image" src="https://github.com/user-attachments/assets/2735a7d0-8655-47d4-a5bd-257d2f00f63d" />
+
+Service section
+<img width="1802" height="1040" alt="image" src="https://github.com/user-attachments/assets/666892b5-ce16-4b19-af0c-d2f028ee3a9f" />
+
+
+🚀 Live Demo
+
+If deployed, add the website link here.
+
+https://your-live-website-link.com
+📦 Run Locally
+
+Clone the repository and run it locally.
+
+# Clone repository
+git clone https://github.com/luckygole/Kota-Refrigeration
+
+# Open project folder
+cd Kota-Refrigeration
+
+# Open index.html in browser
+📌 Project Purpose
+
+This project demonstrates the ability to:
+
+Develop real client business websites
+
+Build responsive service-based websites
+
+Create clean and structured frontend code
+
+Deliver freelancing projects professionally
+
+👨‍💻 Author
+
+Lucky Gole
+
+Full Stack Web Developer
+Passionate about building modern web applications and solving real-world problems with code.
