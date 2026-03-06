@@ -379,7 +379,7 @@ export default function RequestServiceModal({ isOpen, onClose, defaultService })
             </button>
 
             <a
-              href="https://wa.me/916265580736"
+              href="https://wa.me/919425131308"
               target="_blank"
               rel="noopener noreferrer"
               className="flex-1 flex items-center justify-center gap-2 bg-green-500 text-white py-3 rounded-xl font-semibold hover:bg-green-600 hover:scale-105 transition-all duration-300"

@@ -91,7 +91,7 @@ export default function ContactSection() {
           </div>
 
           <div className="mt-10">
-            <a href="https://wa.me/916265580736" target="_blank" rel="noopener noreferrer" className="inline-block bg-green-500 text-white px-6 py-3 rounded-full shadow-md font-semibold hover:bg-green-600 hover:scale-105 transition-all duration-300">
+            <a href="https://wa.me/919425131308" target="_blank" rel="noopener noreferrer" className="inline-block bg-green-500 text-white px-6 py-3 rounded-full shadow-md font-semibold hover:bg-green-600 hover:scale-105 transition-all duration-300">
               💬 Chat on WhatsApp
             </a>
           </div>
