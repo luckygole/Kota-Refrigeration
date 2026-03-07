@@ -1,5 +1,3 @@
-
-
 import React, { useState } from "react";
 import RequestServiceModal from "./RequestServiceModal";
 import acRepairImg from "../assets/acrepair.webp";
