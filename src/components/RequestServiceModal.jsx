@@ -35,12 +35,18 @@ export default function RequestServiceModal({ isOpen, onClose, defaultService })
     setLoading(true);
 
     emailjs
+      // .send(
+      //   "service_mpmus7h",
+      //   // "service_6xqn02x", // ✅ Replace with your actual EmailJS Service ID
+      //   "template_4aratxn", // ✅ Replace with your actual EmailJS Template ID
+      //   formData,
+      //   "D_96KYKbyOpMoL-2E" // ✅ Replace with your EmailJS Public Key
+      // )
       .send(
-        "service_mpmus7h",
-        // "service_6xqn02x", // ✅ Replace with your actual EmailJS Service ID
-        "template_4aratxn", // ✅ Replace with your actual EmailJS Template ID
+        "service_o7bf0q9", // Replace with your EmailJS Service ID
+        "template_vlxitdd", // Replace with your EmailJS Template ID
         formData,
-        "D_96KYKbyOpMoL-2E" // ✅ Replace with your EmailJS Public Key
+        "Bs_FysTTf73S5sINu" // Replace with your EmailJS Public Key
       )
       .then(
         (result) => {

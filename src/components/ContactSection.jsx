@@ -21,13 +21,20 @@ export default function ContactSection() {
     setLoading(true);
 
     emailjs
+      // bhumika email.js id
+      // .send(
+      //   "service_mpmus7h", // Replace with your EmailJS Service ID
+      //   "template_g5vc5eg", // Replace with your EmailJS Template ID
+      //   formData,
+      //   "D_96KYKbyOpMoL-2E" // Replace with your EmailJS Public Key
+      // )
       .send(
-        "service_mpmus7h",
-        // "service_6xqn02x", // Replace with your EmailJS Service ID
-        "template_g5vc5eg", // Replace with your EmailJS Template ID
+        "service_o7bf0q9", // Replace with your EmailJS Service ID
+        "template_hte3izo", // Replace with your EmailJS Template ID
         formData,
-        "D_96KYKbyOpMoL-2E" // Replace with your EmailJS Public Key
+        "Bs_FysTTf73S5sINu" // Replace with your EmailJS Public Key
       )
+
       .then(
         (result) => {
           console.log(result);
