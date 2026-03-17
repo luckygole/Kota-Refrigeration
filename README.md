@@ -2,7 +2,7 @@
 
 A modern and responsive business website developed for Kota Refrigeration, a refrigeration and cooling service provider. The website is designed to showcase the company's services, build trust with customers, and provide an easy way for clients to contact the business.
 
-This project focuses on clean UI design, responsive layout, and simple navigation so that users can easily explore the services offered by the company.
+This project focuses on clean UI design, responsive layout, and simple navigation so that users can easily explore the services offered by the company thats all.
 
 💼 Freelancing Project
 
